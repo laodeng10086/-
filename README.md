@@ -12,8 +12,8 @@
 // ==/UserScript==
 
 // *************   在引号中输入你的信息   *************
-var username = "21060745"; // 学号
-var password = "817791";   // 密码
+var username = "*******"; // 学号
+var password = "*******";   // 密码
 var port = 1;              // 运营商，默认联通，校园网：-1  联通：1  电信：3
 
 (function() {
